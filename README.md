@@ -40,7 +40,7 @@ scolastici.
 
 [Report] (https://github.com/stemarzo/progetto-Machine-Learning/blob/main/Report.pdf)
 
-
+Progetto risalente a Gennaio 2021
 
 
 ***
